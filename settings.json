@@ -1,0 +1,25 @@
+{
+    "json.maxItemsComputed": 50000,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "redhat.telemetry.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.mac": "/Users/garjoshi2/.vs-kubernetes/tools/helm/darwin-amd64/helm"
+    },
+    "window.zoomLevel": 1,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontFamily": "Dank Mono",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "editor.fontLigatures":true 
+}
